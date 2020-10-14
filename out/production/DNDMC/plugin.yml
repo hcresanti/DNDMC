@@ -1,0 +1,5 @@
+name: DNDMC
+version: 1.0
+author: hcresanti
+main: com.hcresanti.dndmc.DNDMC
+api-version: 1.14

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DNDMC:jar">
+    <output-path>$PROJECT_DIR$/../1.16 Server/plugins</output-path>
+    <root id="archive" name="DNDMC.jar">
+      <element id="module-output" name="DNDMC" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-api-1.16.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
